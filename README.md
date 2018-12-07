@@ -4,7 +4,7 @@ Safe2Home features a wide collection of functionalities including route suggesti
 Awarded the most popular app (People's Choice Award) in the final app demo day event of UC Berkeley iOS Decal Fall 2018!
 
 # Version
-The current build uses XCode 10.1 and supports any IOS device with IOS 12.0 and above.
+The current build uses XCode 10.1 and supports any iOS device with iOS 12.0 and above.
 
 # Demo
 Youtube: https://youtu.be/2yTbyzdaHww

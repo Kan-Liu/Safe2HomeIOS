@@ -10,4 +10,4 @@ The current build uses XCode 10.1 and supports any iOS device with iOS 12.0 and 
 Youtube: https://youtu.be/2yTbyzdaHww
 
 # App Screenshots
-
+![Alt text](https://github.com/Kan-Liu/Safe2HomeIOS/blob/master/Scrrenshots.png)

@@ -11,6 +11,3 @@ Youtube: https://youtu.be/2yTbyzdaHww
 
 # App Screenshots
 
-![alt text](https://github.com/Kan-Liu/Safe2HomeIOS/blob/master/4961543815313_.pic.jpg)
-![alt text](https://github.com/Kan-Liu/Safe2HomeIOS/blob/master/4951543815312_.pic.jpg)
-![alt text](https://github.com/Kan-Liu/Safe2HomeIOS/blob/master/331544168978_.pic.jpg)
